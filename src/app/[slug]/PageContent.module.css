@@ -1,0 +1,34 @@
+.main {
+  min-height: 100vh;
+  background-color: var(--color-background-primary, #ffffff);
+}
+
+.header {
+  padding: 2rem 1.5rem 1rem;
+  background-color: var(--color-background-primary, #ffffff);
+}
+
+.headerContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.pageTitle {
+  color: var(--color-text-primary, #333333);
+  margin: 0;
+  font-size: 1.75rem;
+}
+
+.pageSubtitle {
+  color: var(--color-text-primary, #666666);
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}

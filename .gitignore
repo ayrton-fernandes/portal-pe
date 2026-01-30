@@ -1,0 +1,60 @@
+# Node
+node_modules/
+
+# Next.js
+.next/
+out/
+.build/
+/dist/
+
+# Production
+/.env
+/.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency directories
+/.cache/
+
+# Coverage
+coverage/
+
+# Misc
+public/images/README.md
+
+# OneDrive/Temp
+~$*
+
+# Mac
+.AppleDouble
+
+# Parcel, Webpack
+.cache
+
+# Build outputs
+dist/
+build/
+
+# Optional: local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

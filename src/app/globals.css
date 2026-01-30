@@ -1,0 +1,25 @@
+:root {
+  --color-text-link: #1351B4;
+  --color-text-primary: #333333;
+  --color-background-primary: #ffffff;
+  --color-background-secondary: #F8F9FA;
+  --color-border: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: var(--font-inter), sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
