@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Typography, FlexContainer } from '@uigovpe/components';
 import { PageSection } from '@/types/page.types';
 import styles from './HeroSection.module.css';
+import { createMarkup } from '@/utils/sanitize';
 
 interface HeroSectionProps {
   section: PageSection;
@@ -26,7 +27,10 @@ export function HeroSection({ section }: HeroSectionProps) {
           </Typography>
           {section.description && (
             <Typography variant="p" className={styles.description}>
-              {section.description}
+              <div 
+                className={styles.accordionContent}
+                dangerouslySetInnerHTML={createMarkup(section.description)}
+              />
             </Typography>
           )}
         </div>

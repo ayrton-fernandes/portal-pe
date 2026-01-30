@@ -183,6 +183,586 @@
           ]
         }
       ]
+    },
+    {
+      "slug": "vice-governadora",
+      "title": "Vice-Governadoria do Estado de Pernambuco",
+      "subtitle": "Governo de Pernambuco",
+      "sections": [
+        {
+          "id": "quem-somos",
+          "type": "hero",
+          "title": "Quem Somos",
+          "description": "A Vice-Governadoria do Estado de Pernambuco é o Órgão do Poder Executivo do Governo do Estado de Pernambuco com sede física no Bairro do Recife, no centro histórico da cidade.<br/><br/>O Órgão integra o Gabinete da Vice-Governadora do Estado, Priscila Krause Branco, jornalista recifense nascida no dia 15 de abril de 1978. É casada com Jorge e mãe de Matheus e Helena.<br/><br/>Priscila exerce mandatos eletivos há 18 anos. Em 2004, foi eleita vereadora de sua cidade natal, Recife, renovando o mandato por mais duas vezes (2008 e 2012), com votações crescentes, antes de chegar à Assembleia Legislativa de Pernambuco, em 2014 e 2018.<br/><br/>Dedicada a pautas como finanças públicas, tributação, meio ambiente, saúde, e atuando na prestação contínua de suas ações, Priscila chegou ao Executivo para, junto com a governadora Raquel Lyra, continuar trabalhando por nosso estado, na primeira chapa 100% feminina eleita no Brasil.<br/><br/>Assim, ao lado da governadora Raquel Lyra, Priscila inicia no Executivo uma nova fase em sua trajetória política, marcada pelo compromisso com os pernambucanos e pernambucanas.",
+          "image": "/images/vice-gov.png",
+          "content": ""
+        },
+        {
+          "id": "fale-conosco",
+          "type": "contact",
+          "title": "Fale conosco",
+          "description": "Entre em contato conosco para esclarecer dúvidas, compartilhar sugestões e obter informações sobre cooperação internacional, parcerias e iniciativas que promovem Pernambuco no cenário global.",
+          "content": "<ul><li><strong>E-mail:</strong> gab.vice-gov@vg.pe.gov.br</li><li><strong>Telefone:</strong> +55 (81) 3181-2412</li><li><strong>Endereço:</strong> Av. Rio Branco, 104, Bairro do Recife, Recife/PE, CEP 50030-310</li></ul>"
+        },
+        {
+          "id": "transparencia",
+          "type": "accordion_group",
+          "title": "Transparencia",
+          "description": "",
+          "accordions": [
+            {
+              "title": "Identidade Institucional",
+              "content": "<div class='identidade-item'><strong>Identidade Institucional</strong><br/><p>Órgão do Poder Executivo do Governo do Estado de Pernambuco – Administração Direta, com o papel institucional de coordenar a pauta de audiências, despachos, viagens e eventos da Vice-Governadora; promover a integração do Gabinete da Vice-Governadora com as Secretarias de Estado e entidades da administração indireta; assessorar a Vice-Governadora em temas e assuntos relativos à Administração Pública; prestar apoio logístico e operacional a Vice-Governadora no exercício de suas funções especiais; assessorar a Vice-Governadora em assuntos técnicos e políticos relativos à gestão da Administração Pública; e emitir pareceres em documentos técnicos.</p><br/><strong>Missão Institucional</strong><br/><p>Promover articulação política e administrativa, em conjunto com gabinete da Governadora e demais secretarias e órgãos da administração direta e indireta, com o intuito de otimizar os trabalhos desenvolvidos e oferecidos pelo Governo do Estado aos pernambucanos.</p><br/><strong>Visão de Futuro</strong><br/><p>Ser referência na articulação político-administrativa com os órgãos e secretarias do estado para prover o melhor serviço à população.</p><br/><strong>Valores</strong><br/><ul><li>Trabalho em equipe</li><li>Produtividade</li><li>Proatividade</li><li>Ética</li><li>Respeito mútuo e interação entre os funcionários para um ambiente de trabalho saudável</li></ul></div>"
+            },
+            {
+              "title": "Estrutura Organizacional",
+              "content": "<div class='estrutura-item'><a href='https://secretarias.pe.gov.br/wp-content/uploads/2025/05/LAI_VG-scaled.jpg' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>Ver organograma</strong></a></div>"
+            },
+            {
+              "title": "Quem é quem?",
+              "content": "<div class='equipe-item'><strong>Priscila Krause Branco</strong><br/><strong>Vice-Governadora</strong><br/><p>E-mail: gab.vice-gov@vg.pe.gov.br</p><p>Telefone: (81) 3181.2412</p><br/></div><div class='equipe-item'><strong>Isabely Sátiro Pádua</strong><br/><strong>Chefe de Gabinete</strong><br/><br/><p>E-mail: isabely.padua@vg.pe.gov.br</p><p>Telefone: (81) 3181.2415</p><br/></div><div class='equipe-item'><strong>Kelly Barbosa de Arruda</strong><br/><strong>Gerente Geral de Comunicação</strong><br/><br/><p>E-mail: kelly.arruda@vg.pr.gov.br</p><p>Telefone: (81) 3181.2518</p><br/></div><div class='equipe-item'><strong>Gabriela Pernambuco Lustosa Maciel</strong><br/><strong>Superintendente Jurídico</strong><br/><br/><p>E-mail: gabriela.pernambuco@vg.pe.gov.br</p><p>Telefone: (81) 3181.2417</p><br/></div><div class='equipe-item'><strong>Rejane Pepe Moura</strong><br/><strong>Gerente de Orçamento e Financeiro</strong><br/><br/><p>E-mail: rejane.pepe@vg.pe.gov.br</p><p>Telefone: (81) 3181-2436</p></div>"
+            },
+            {
+              "title": "Competência e Legislação Aplicável",
+              "content": "<div class='competencia-item'><strong>Competências</strong><br/><br/><p>O gabinete da Vice-Governadora, órgão do Poder Executivo do Governo do Estado de Pernambuco – Administração Direta, com o papel institucional de coordenar a pauta de audiências, despachos, viagens e eventos da Vice-Governadora; promover a integração do Gabinete da Vice-Governadora com as Secretarias de Estado e entidades da administração indireta; assessorar a Vice-Governadora em temas e assuntos relativos à Administração Pública; prestar apoio logístico e operacional a Vice-Governadora no exercício de suas funções especiais; assessorar a Vice-Governadora em assuntos técnicos e políticos relativos à gestão da Administração Pública; e emitir pareceres em documentos técnicos.</p><br/><p>A Vice-governadora compete auxiliar a Governadora, sempre que por esta for convocada, podendo desempenhar missões especiais de interesse do Estado, assim como participar de reuniões do secretariado, cabendo-lhe, neste caso, a presidência, quando ausente a Governadora; substituir a Governadora no caso de impedimento, conforme previsto na Constituição Estadual; promover a integração do gabinete da Vice-governadora, com as Secretarias de Estado e entidades da administração indireta; Definir e estabelecer as políticas, diretrizes e normas de organização interna; planejar, dirigir e controlar as ações do Gabinete.</p><br/><strong>Legislação Aplicável</strong><br/><br/><p><strong>Regulamento do Gabinete da Vice-Governadora:</strong> <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=25717&tipo=' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso ao Regulamento da Vice-Governadora</a></p><p><strong>Estrutura e funcionamento:</strong> <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=71174&tipo=' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso a Estrutura e Funcionamento</a></p><p><strong>Constituição do Estado:</strong> <a href='https://www.lai.pe.gov.br/pc/wp-content/uploads/sites/99/2019/04/Constitui%C3%A7%C3%A3o-Estadual.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso a Constituição do Estado</a></p></div>"
+            },
+            {
+              "title": "Plano de Cargos e Carreira",
+              "content": "<div class='plano-item'><p>A Vice-Governadoria não tem Plano de Cargos e Carreira de Servidores Efetivos. Seu quadro é composto por cargos comissionados e servidores efetivos à disposição de outros Órgãos.</p></div>"
+            },
+            {
+              "title": "Ética e Integridade",
+              "content": "<div class='etica-item'><strong>CÓDIGO DE ÉTICA DA ADMINISTRAÇÃO PÚBLICA ESTADUAL</strong><br/><br/><p>Para conhecer o Código de Conduta da Alta Administração do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41240&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.854, de 07 de Dezembro de 2018.</a></p><p>Confira o Código de Ética dos Agentes Públicos da Administração Direta e Indireta do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41238&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.852, de 07 de Dezembro de 2018.</a></p></div>"
+            },
+            {
+              "title": "Horário de Funcionamento, Endereço, E-mail e Telefone",
+              "content": "<div class='horario-item'><strong>Vice-Governadoria do Estado de Pernambuco</strong><br/><br/><strong>Endereço</strong><p>Av. Rio Branco 104, 3º Andar | Recife Antigo – Recife-PE, CEP: 50030-310</p><br/><strong>Horário de Atendimento</strong><p>Dias da Semana: De Segunda-feira a Sexta-feira</p><p>Horários: 08:00 às 12:00 e 13:00 às 18:00</p><br/><strong>E-mail</strong><p>gab.vice-gov@vg.pe.gov.br</p><br/><strong>Telefone</strong><p>+55 (81) 3181-2412</p></div>"
+            },
+            {
+              "title": "Carta de Serviço ao Usuário",
+              "content": "<div class='carta-item'><a href='https://www.pe.gov.br/app/catalog/carta-de-servicos' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>Acesso a Carta de Serviços ao Usuário</strong></a></div>"
+            },
+            {
+              "title": "Conselhos",
+              "content": "<div class='conselhos-item'><p><strong>Observação:</strong> Informamos que a Vice-Governadoria do Estado não possui Conselhos.</p></div>"
+            },
+            {
+              "title": "Lei Geral de Proteção de Dados - LGPD",
+              "content": "<div class='lgpd-item'><p><strong>Nome da pessoa encarregada:</strong> Ricardo Alexandre da Silva Medeiros</p><p><strong>Telefone:</strong> (81) 3181-2438</p><p><strong>E-mail:</strong> ricardo_alexandre@vg.pe.gov.br</p></div>"
+            },
+            {
+              "title": "Ouvidoria",
+              "content": "<div class='ouvidoria-item'><p><strong>Endereço:</strong> Rua Santo Elias, 535, Espinheiro</p><p><strong>Contato:</strong> 3183.0815</p><p><strong>Teleatendimento:</strong> 162</p><p><strong>E-mail:</strong> ouvidoria@ouvidoria.pe.gov.br</p><p><strong>Site:</strong> <a href='http://www2.ouvidoria.pe.gov.br/web/ouvidoria' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>www.ouvidoria.pe.gov.br</a></p><p><strong>Horário de Atendimento:</strong> 08h às 17h</p></div>"
+            },
+            {
+              "title": "Redes sociais digitais",
+              "content": "<div class='redes-item'><p><strong>Instagram:</strong> <a href='http://www.instagram.com/governope?igsh=MWtmMnFkYjdwN2VjeQ==' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar página do Instagram</a></p><p><strong>Facebook:</strong> <a href='http://www.facebook.com/share/1HKvo6Dyx9/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar página do Facebook</a></p><p><strong>X:</strong> <a href='http://x.com/governope?t=h1XnDH38xnc8v6JCfoq68g&s=09' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar página do X</a></p></div>"
+            },
+            {
+              "title": "Perguntas frequentes",
+              "content": "<div class='faq-item'><p><strong>1) Quem é a Vice-Governadora?</strong></p><p>Priscila Krause Branco (Recife, 15 de abril de 1978), é uma jornalista e política brasileira, filiada ao Partido Social Democrático (PSD). É a atual vice-governadora de Pernambuco, tendo antes sido deputada estadual e vereadora do Recife. É filha do também político, ex-governador de Pernambuco e ex-prefeito do Recife, Gustavo Krause.</p><br/><p><strong>2) Qual o papel da Vice-Governadora?</strong></p><p>Tem como função substituir o Governadora em caso de impedimento ou ausência do Estado. Cabe ao Vice-Governador assumir as funções do titular sempre que necessário. Além de outras contribuições previstas por lei, também auxiliará o trabalho do Governador, sempre que por este for convocado para missões especiais.</p><br/><p><strong>3) Onde está localizada a Vice-Governadoria?</strong></p><p>Desde o ano de 2015, a Vice-Governadoria está sediada na Av. Rio Branco, nº 104, 3º andar, Recife Antigo, Recife/PE – CEP: 50030-310.</p><br/><p><strong>4) Existe acessibilidade no Gabinete da Vice-Governadora?</strong></p><p>Apesar da Vice-Governadoria está instalada em um prédio antigo do Bairro do Recife, houve uma preocupação especial com a acessibilidade ao Gabinete. Foram instalados elevadores, rampas e banheiros adequados.</p><br/><p><strong>5) Como posso entrar em contato com a Vice-Governadora?</strong></p><p>Através dos telefones: 81 3181.2412/2412</p><br/><p><strong>6) Quem é responsável pela comunicação da Vice-Governadoria?</strong></p><p>A Gerente de Comunicação é Kelly Barbosa de Arruda.</p><br/><p><strong>7) Qual o CNPJ do Gabinete da Vice-Governadoria?</strong></p><p>O Gabinete do Vice-Governadora está registrado no Cadastro Nacional de Pessoas Jurídicas – CNPJ sob o nº 12.056.036/0001-76.</p><br/><p><strong>8) Qual o site da Vice-Governadoria?</strong></p><p>No presente site.</p><br/><p><strong>9) Onde posso encontrar informações administrativas e financeiras da Vice Governadoria?</strong></p><p>O Portal da Transparência do Estado (clique aqui) disponibiliza as informações financeiras e de recursos humanos do Gabinete do Vice-Governador, assim como de todos os orgãos diretos e indretos do Governo do Pernambuco.</p><br/><p><strong>10) Qual o período de mandato da atual Vice-Governadora do Estado?</strong></p><p>O mandato da atual Vice-Governadora de Pernambuco, Priscila Krause, termina no dia 31 de dezembro de 2026. Ela assumiu o cargo em 1º de janeiro de 2023 e, como governador e vice-governador são eleitos para um mandato de quatro anos, o mandato da Vice-Governadora termina no final desse período.</p></div>"
+            },
+            {
+              "title": "Responsabilidade fiscal",
+              "content": "<div><a href='https://transparencia.pe.gov.br/responsabilidade-fiscal/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Responsabilidade fiscal</strong></a></div>"
+            },
+            {
+              "title": "Fiscalização e Controle",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/fiscalizacao-e-controle/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Fiscalização e Controle</strong></a></div>"
+            },
+            {
+              "title": "Transferências estaduais e acordos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/transferencia/' target='_blank' style='text-decoration:underline;' rel='noopener noreferrer'><strong>Acessar link das Transferências Estaduais e Acordos</strong></a></div>"
+            },
+            {
+              "title": "Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita",
+              "content": "<div><a href='https://transparencia.pe.gov.br/receitas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita</strong></a></div>"
+            },
+            {
+              "title": "Despesas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/menu-despesas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Despesas</strong></a></div>"
+            },
+            {
+              "title": "Licitações, Contratos e Fornecedores",
+              "content": "<div class='licitacoes-item'><strong>Licitações</strong><br/><br/><a href='https://transparencia.pe.gov.br/licitacoes-e-contratos/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Licitações no Portal da Transparência</a><br/><br/><a href='#' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>PE Integrado – Editais e Licitações</a><br/><br/><strong>Contratos</strong><br/><br/><a href='#' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Relatório de Contratos 2024</a></div>"
+            },
+            {
+              "title": "Obras Públicas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/obras/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Obras Públicas</strong></a></div>"
+            },
+            {
+              "title": "Patrimônio Público",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/patrimonio-publico/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do Patrimônio Público</strong></a></div>"
+            },
+            {
+              "title": "Recursos Humanos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/recursos-humanos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link dos Recursos Humanos</strong></a></div>"
+            },
+            {
+              "title": "Sistema de Informação ao Cidadão - SIC",
+              "content": "<div><a href='https://transparencia.pe.gov.br/participacao-cidada-pe/acesso-a-informacao/servico-de-informacoes-ao-cidadao-sic/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do SIC</strong></a></div>"
+            },
+            {
+              "title": "Programas",
+              "content": "<div class='programas-item'><p>A Lei Orçamentária Anual Estadual (LOA) estabelece os orçamentos do Estado que estimam as receitas e fixa as despesas do governo. Cabe a Assembleia Legislativa do Estado de Pernambuco avaliar e ajustar a proposta do Poder Executivo, assim como faz com a Lei de Diretrizes Orçamentárias (LDO) e Plano Plurianual (PPA). É o instrumento que o cidadão pode acompanhar a correta aplicação dos recursos públicos.</p><br/><strong>Para conhecer a LOA do Estado</strong><br/><a href='https://drive.expresso.pe.gov.br/s/sVDQouY2WZ67e7j' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso a LOA do estado</a><br/><br/><strong>Para conhecer a LOA da Vice-Governadoria</strong><br/><a href='https://www.lai.pe.gov.br/vicegov/acoes-e-programas/#acoes' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso a LOA da Vice-Governadoria</a><br/><br/><strong>Acompanhe as despesas estaduais</strong><br/><a href='https://transparencia.pe.gov.br/responsabilidade-fiscal/planejamento-e-orcamento/acoes-e-programas/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso as despesas estaduais</a><br/><br/><strong>Conforme consta na Lei Orçamentária Anual (LOA) de 2025, são programas e ações da Vice-Governadoria:</strong><br/><br/><strong>0452 –</strong> APOIO GERENCIAL E TECNOLÓGICO PARA A PROMOÇÃO DO MODELO DE GESTÃO<br/><strong>Ações</strong><br/><strong>0021 –</strong> Contribuições Patronais do Gabinete do Vice Governador ao FUNAFIN<br/><strong>0298 –</strong> Concessão de Vale Transporte e Auxílio Alimentação a Servidores do Gabinete do Vice Governador<br/><strong>4030 –</strong> Conservação do Patrimôno Público do Gabinete do Vice Governador<br/><strong>4406 –</strong> Gestão das Atividades do Gabinete do Vice Governador<br/><strong>0056 –</strong> ENCARGOS ADMINISTRATIVOS DO ESTADO<br/><strong>Ações</strong><br/><strong>2752 –</strong> Encargos com INSS do Pessoal Contratado e Comissionado do Gabinete do Vice Governador<br/><strong>0064 –</strong> GESTÃO SUPERIOR DO GOVERNO DO ESTADO</div>"
+            },
+            {
+              "title": "Auditorias",
+              "content": "<div class='auditorias-item'><p>Para obter informações referentes ao resultado de inspeções, auditorias, prestações e tomadas de contas realizadas na Vice-Governadoria, através do Tribunal de Contas do Estado (TCE-PE), <a href='http://www.tce.pe.gov.br/internet/index.php/cidadaoprocessos' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>CLIQUE AQUI</a>, selecionando a opção de pesquisa \"Por Orgão/Unidade Gestora\", optando por consultar a Vice-Governadoria do Estado de Pernambuco e coloque como de entrada. Siga os passos abaixo:</p><br/><strong>Passo a passo de como realizar consulta no portal do TCE</strong><br/><br/><a href='https://www.lai.pe.gov.br/vicegov/wp-content/uploads/sites/96/2020/09/Passo-a-passo-de-consulta-no-portal-do-TCE.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso ao Passo a Passo</a></div>"
+            },
+            {
+              "title": "Convênios",
+              "content": "<div class='convenios-item'><p>A Vice-Governadoria não possui convênios de repasses, transferência de recursos financeiros ou convênios e cooperação técnica.</p></div>"
+            },
+            {
+              "title": "Execução Orçamentária e Financeira",
+              "content": "<div class='execucao-item'><p>As despesas da VICE-GOVERNADORIA poderão ser consultadas através do Portal da Transparência.</p><a href='https://transparencia.pe.gov.br/despesas/menu-despesas/despesas-detalhadas/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso ao painel de Despesas Detalhadas</a></div>"
+            },
+            {
+              "title": "Servidores",
+              "content": "<div class='servidores-item'><p>A remuneração dos servidores da Vice-Governadoria de Pernambuco poderá ser consultada através do Portal da Transparência.</p><a href='https://transparencia.pe.gov.br/recursos-humanos/remuneracoes/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso ao Painel de Remunerações</a></div>"
+            },
+            {
+              "title": "Mapa de Contratos",
+              "content": "<div class='contratos-item'><p>Contratos</p><a href='http://docs.google.com/spreadsheets/d/1Un6-40yjDOg_wlrWhp-l4jBtiHizY2GZ/edit?usp=drive_link&ouid=115532658277069247314&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Relatório de Contratos</a></div>"
+            },
+            {
+              "title": "Mapa de Contratos de Terceirizados",
+              "content": "<div class='terceirizados-item'><p>Contratos de Terceirizados</p><a href='https://docs.google.com/spreadsheets/d/1lRTw_5xDi4-4TOkOcucFYPc1FVsYixdj/edit?gid=830482393#gid=830482393' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Relatório de Contratos de Terceirizados</a></div>"
+            },
+            {
+              "title": "Mapa de Diárias e Passagens",
+              "content": "<div class='diarias-item'><p>Diárias e Passagens</p><a href='https://docs.google.com/spreadsheets/d/1rj1VOa-ImJrlxRz26wVCwGN9AwlPQdNI/edit?gid=151213369#gid=151213369' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Relatório de Diárias e Passagens</a></div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "secretaria-mulher",
+      "title": "Secretaria da Mulher - SecMulher",
+      "subtitle": "Governo de Pernambuco",
+      "sections": [
+        {
+          "id": "quem-somos",
+          "type": "hero",
+          "title": "Quem Somos",
+          "description": "A Secretaria da Mulher tem por objetivo promover os direitos e garantias fundamentais, sociais e coletivos, e transindividuais das mulheres no Estado, com o objetivo de formular, desenvolver, articular, coordenar, apoiar e monitorar políticas públicas para proporcionar a melhoria das condições de vida das mulheres que vivem em Pernambuco. Desta forma, articular, planejar e executar ações de inclusão das mulheres, em parceria com os municípios, perseguindo uma melhor qualidade de vida com a garantia dos direitos a uma vida digna com saúde, educação, habitação, terra, águas e alimentos, trabalho, cultura e lazer, e sem violências.",
+          "image": "/images/mulher.png",
+          "content": ""
+        },
+        {
+          "id": "fale-conosco",
+          "type": "contact",
+          "title": "Fale conosco",
+          "description": "Entre em contato conosco para esclarecer dúvidas, compartilhar sugestões e obter informações sobre cooperação internacional, parcerias e iniciativas que promovem Pernambuco no cenário global.",
+          "content": "<ul><li><strong>E-mail:</strong> secmulher@secmulher.pe.gov.br</li><li><strong>Telefone:</strong> +55 (81) 3183-2950</li><li><strong>Endereço:</strong> Rua do Bom Jesus, 9 - Recife, PE - CEP:50030-170</li></ul>"
+        },
+        {
+          "id": "transparencia",
+          "type": "accordion_group",
+          "title": "Transparencia",
+          "description": "",
+          "accordions": [
+            {
+              "title": "Identidade Institucional",
+              "content": "<div class='identidade-item'><strong>Identidade Institucional</strong><br/><br/><strong>Secretaria da Mulher do Estado de Pernambuco</strong><br/><br/><p>Promover os direitos e garantias fundamentais, sociais e coletivos, e transindividuais das mulheres no Estado, com o objetivo de formular, desenvolver, articular, coordenar, apoiar e monitorar políticas públicas para proporcionar a melhoria das condições de vida das mulheres que vivem em Pernambuco. Desta forma, articular, planejar e executar ações de inclusão das mulheres, em parceria com os municípios, perseguindo uma melhor qualidade de vida com a garantia dos direitos a uma vida digna com saúde, educação, habitação, terra, águas e alimentos, trabalho, cultura e lazer, e sem violências.</p><br/><strong>Missão Institucional</strong><br/><p>Promover os direitos das mulheres no estado de Pernambuco.</p><br/><strong>Visão de Futuro</strong><br/><p>Perseguir até 2030 a Igualdade de Gênero e o Empoderamento das Meninas e Mulheres de acordo com o objetivo 5 dos Objetivos de Desenvolvimento Sustentável – ODS.</p><br/><strong>Valores</strong><br/><ul><li>Ética</li><li>Transparência</li><li>Diálogo</li><li>Participação Social</li><li>Compromisso</li><li>Inovação</li><li>Cooperação</li></ul><br/><strong>Objetivo</strong><br/><p>Formular, desenvolver, articular, coordenar, apoiar e monitorar políticas públicas para promover a melhoria das condições de vida das mulheres em Pernambuco.</p><br/><strong>Público</strong><br/><p>Os segmentos da população feminina dos espaços urbanos e rurais.</p></div>"
+            },
+            {
+              "title": "Estrutura Organizacional",
+              "content": "<div class='estrutura-item'><a href='http://secretarias.pe.gov.br/wp-content/uploads/2025/06/Organograma-SecMulher-scaled.jpg' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>Ver organograma</strong></a></div>"
+            },
+            {
+              "title": "Quem é quem?",
+              "content": "<div class='equipe-item'><strong>Juliana Gouveia Alves da Silva</strong><br/><strong>Secretária da Mulher de Pernambuco</strong><br/><p>Telefone: (81) 3183.2951/(81) 3183-2980</p><p>Email: juliana.gouveia@secmulher.pe.gov.br</p><br/></div><div class='equipe-item'><strong>Amanda Larissa Valença de Medeiros</strong><br/><strong>Secretária Executiva de Planejamento e Gestão</strong><br/><p>Telefone: (81) 3183-2980</p><p>Email: amanda.valenca@secmulher.pe.gov.br</p><br/></div><div class='equipe-item'><strong>Walkíria Ferreira Alves</strong><br/><strong>Secretária Executiva de Políticas para as Mulheres</strong><br/><p>Telefone: (81) 3183-2957</p><p>Email: walkiria.alves@secmulher.pe.gov.br</p></div>"
+            },
+            {
+              "title": "Competência e Legislação Aplicável",
+              "content": "<div class='competencia-item'><strong>Competências</strong><br/><br/><p>São aquelas ações que têm como sujeitos as mulheres e estão voltadas, efetivamente, para o empoderamento das mesmas, promovendo a igualdade social, política e econômica entre os sexos.<br/>A aplicação desses conceitos preconiza que as políticas para as mulheres venham a contemplar três dimensões:</p><br/><ul><li>De reparação das desvantagens que esse segmento da população ainda vivencia, devido aos longos anos de violação de seus direitos civis, políticos, econômicos e sociais;</li><li>De proteção desse segmento da população da violência doméstica e sexista;</li><li>De atendimento a especificidades advindas da compleição física e funcionamento biológico da população feminina, tais como a gravidez, o parto, o aborto previsto em lei, a menopausa, entre outros.</li></ul><br/><strong>Legislação Aplicável</strong><br/><br/><p><a href='https://www.lai.pe.gov.br/gabgov/wp-content/uploads/sites/35/2021/06/LO165202018.-Lei-Organizacao-Estrutura.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Lei nº16.520 – 2018 – Lei-Organização-Estrutura</a></p><p><a href='https://www.lai.pe.gov.br/gabgov/wp-content/uploads/sites/35/2019/04/Altera-Lei-Or%C3%A7ament%C3%A1ria-e-trata-de-compet%C3%AAncias-governamentais.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Altera Lei Orçamentária e trata de competências governamentais</a></p><p><a href='https://legis.alepe.pe.gov.br/texto.aspx?id=1908&tipo=TEXTOATUALIZADO' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Lei Nº 15.452, de 15 de Janeiro de 2015</a></p></div>"
+            },
+            {
+              "title": "Plano de Cargos e Carreira",
+              "content": "<div class='plano-item'><p>Não se aplica, tendo em vista o Órgão ser composto exclusivamente por cargos comissionados.</p></div>"
+            },
+            {
+              "title": "Ética e Integridade",
+              "content": "<div class='etica-item'><strong>CÓDIGO DE ÉTICA DA ADMINISTRAÇÃO PÚBLICA ESTADUAL</strong><br/><br/><p>Para conhecer o Código de Conduta da Alta Administração do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41240&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.854, de 07 de Dezembro de 2018.</a></p><p>Confira o Código de Ética dos Agentes Públicos da Administração Direta e Indireta do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41238&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.852, de 07 de Dezembro de 2018.</a></p></div>"
+            },
+            {
+              "title": "Horário de Funcionamento, Endereço, E-mail e Telefone",
+              "content": "<div class='horario-item'><strong>Vice-Governadoria do Estado de Pernambuco</strong><br/><br/><strong>Endereço</strong><p>Rua do Bom Jesus, 9 – Recife, PE – CEP:50030-170</p><br/><strong>Horário de Atendimento</strong><p>Dias da Semana: De Segunda-feira a Sexta-feira<br/>Horários: 8:00 até 18:00</p><br/><strong>E-mail</strong><p>gabinete@secmulher.pe.gov.br<br/>secmulher@secmulher.pe.gov.br</p><br/><strong>Telefone</strong><p>+55 (81) 3183-2950</p></div>"
+            },
+            {
+              "title": "Carta de Serviço ao Usuário",
+              "content": "<div class='carta-item'><p>Conheça os serviços prestados pela Secretaria da Mulher – SecMulher, acessando sua \"Carta de Serviços ao Usuário\" disponível no Portal do Cidadão de Pernambuco.</p><br/><a href='https://www.pe.gov.br/app/catalog/carta-de-servicos' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>Acesso a Carta de Serviços ao Usuário</strong></a></div>"
+            },
+            {
+              "title": "Visitação",
+              "content": "<div class='visitacao-item'><p><strong>Visitação:</strong> Espontânea ou agendada com tour guiado (quinta-feira, sexta-feira, sábados e domingos)</p><br/><p><strong>Quinta e sexta-feira</strong><br/>Horários: 9h às 12h | 14h às 17h</p><br/><p><strong>Sábados e domingos</strong><br/>Horário: 10h às 16h</p><br/><p><strong>E-mail:</strong> secmulher@secmulher.pe.gov.br</p><br/><p><strong>Fotos (escolas, universidades, outros):</strong> Por meio de agendamento (sábados e domingos)</p></div>"
+            },
+            {
+              "title": "Conselho Estadual dos Direitos da Mulher - CEDIM",
+              "content": "<div class='cedim-item'><strong>CONSELHO ESTADUAL</strong><br/><br/><strong>Conselheiras:</strong><br/><br/><a href='http://www2.secmulher.pe.gov.br/c/document_library/get_file?uuid=32c0915c-0c2c-4a20-a7c7-4b7957aab7ab&groupId=30863' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>RELAÇÃO DAS CONSELHEIRAS (2021 – 2024)</a><br/><a href='http://www2.secmulher.pe.gov.br/c/document_library/get_file?uuid=a92f45b1-61ac-4481-b513-59eccd07b782&groupId=30863' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>RELAÇÃO DAS CONSELHEIRAS (2017 – 2021)</a><br/><br/><strong>Calendário:</strong><br/><br/><a href='http://www2.secmulher.pe.gov.br/c/document_library/get_file?uuid=4fd138f8-3794-4428-81c0-d2092782b0f3&groupId=30863' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>CALENDÁRIO DE REUNIÕES DO CEDIM – 2022</a></div>"
+            },
+            {
+              "title": "Lei Geral de Proteção de Dados - LGPD",
+              "content": "<div class='lgpd-item'><p><strong>Nome da pessoa encarregada:</strong> Bruno Henrique Nascimento de Araújo</p><p><strong>Telefone:</strong> 3181-2116</p><p><strong>E-mail:</strong> gabinetegovernadora@governadoria.pe.gov.br/</p></div>"
+            },
+            {
+              "title": "Ouvidoria",
+              "content": "<div class='ouvidoria-item'><p>A Ouvidoria das Mulheres é um canal de comunicação entre a população e a Secretaria da Mulher de Pernambuco (SecMulher-PE), para o recebimento de sugestões, solicitações, elogios, reclamações e denúncias, com escuta qualificada dirigida principalmente às mulheres urbanas e rurais de todo o estado.</p><br/><p><strong>Lucia Camara Alves Filha Ferraz Gominho</strong><br/><strong>Ouvidora</strong><br/>Telefone: (81) 98885-0633<br/>Email: lucia.gominho@secmulher.pe.gov.br</p><br/><p><strong>Atendimento por telefone:</strong> Você pode acessar a Ouvidoria da Mulher ligando para o 0800.281.8187</p><p><strong>Presencial:</strong> O atendimento presencial é realizado pela Ouvidoria na sede da SecMulher, de segunda a sexta-feira, das 8h às 12h e das 13h às 17h.</p><p><strong>Endereço:</strong> Rua do Bom Jesus, 9 – Recife, PE – CEP: 50030-170</p><p><strong>E-mail:</strong> ouvidoria@secmulher.pe.gov.br</p></div>"
+            },
+            {
+              "title": "Redes sociais digitais",
+              "content": "<div class='redes-item'><p><strong>Instagram:</strong> <a href='https://www.instagram.com/secmulherpe' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar página do Instagram</a></p></div>"
+            },
+            {
+              "title": "Perguntas frequentes",
+              "content": "<div class='faq-item'><p><strong>1) Como proceder nos casos de Violência domestica e familiar?</strong></p><p>Registrar um Boletim de Ocorrência em uma Delegacia Especializada à Mulher (DEAM) e solicitar Medidas Protetivas de Urgência.</p><br/><p><strong>2) Como Solicitar orientação sobre divorcio e pensão alimentícia?</strong></p><p>Para dar entrada no divórcio e solicitar a pensão alimentícia, procurar à Defensoria Pública do seu município.</p><br/><p><strong>3) Possuo Medida Protetiva e meu ex-marido foi em minha residência dizendo que estava armado?</strong></p><p>Em caso de emergência e se o agressor estiver no local acionar o número 190 (CIODS) e registrar um novo Boletim de Ocorrência.</p></div>"
+            },
+            {
+              "title": "Responsabilidade fiscal",
+              "content": "<div><a href='https://transparencia.pe.gov.br/responsabilidade-fiscal/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Responsabilidade fiscal</strong></a></div>"
+            },
+            {
+              "title": "Fiscalização e Controle",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/fiscalizacao-e-controle/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Fiscalização e Controle</strong></a></div>"
+            },
+            {
+              "title": "Transferências estaduais e acordos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/transferencia/' target='_blank' style='text-decoration:underline;' rel='noopener noreferrer'><strong>Acessar link das Transferências Estaduais e Acordos</strong></a></div>"
+            },
+            {
+              "title": "Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita",
+              "content": "<div><a href='https://transparencia.pe.gov.br/receitas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita</strong></a></div>"
+            },
+            {
+              "title": "Despesas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/menu-despesas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Despesas</strong></a></div>"
+            },
+            {
+              "title": "Licitações, Contratos e Fornecedores",
+              "content": "<div><a href='https://transparencia.pe.gov.br/licitacoes-e-contratos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Licitações, Contratos e Fornecedores</strong></a></div>"
+            },
+            {
+              "title": "Obras Públicas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/obras/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Obras Públicas</strong></a></div>"
+            },
+            {
+              "title": "Patrimônio Público",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/patrimonio-publico/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do Patrimônio Público</strong></a></div>"
+            },
+            {
+              "title": "Recursos Humanos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/recursos-humanos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link dos Recursos Humanos</strong></a></div>"
+            },
+            {
+              "title": "Sistema de Informação ao Cidadão - SIC",
+              "content": "<div><a href='https://transparencia.pe.gov.br/participacao-cidada-pe/acesso-a-informacao/servico-de-informacoes-ao-cidadao-sic/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do SIC</strong></a></div>"
+            },
+            {
+              "title": "Programas",
+              "content": "<div class='programas-item'><p>O Protege Mulher, a nova plataforma digital criada para acolher mulheres vítimas de importunação sexual em qualquer lugar.</p><br/><p>A ferramenta funciona direto no navegador (não precisa baixar) e permite relatar casos de forma anônima, conversar com uma assistente virtual e acessar informações sobre a rede de proteção.</p><br/><p>Além de acolher, o Protege Mulher também cumpre um papel educativo e estratégico, ajudando o Estado a mapear os pontos críticos e planejar ações mais eficazes de enfrentamento à violência.</p><br/><p>É mais um avanço do Governo de Pernambuco, através da Secretaria da Mulher, da Secretaria Administração, da Secretaria de Defesa Social e do Grande Recife Consórcio, para garantir que as mulheres se sintam seguras e amparadas em todos os espaços.</p><br/><p>Acesse: <a href='http://protegemulher.pe.gov.br/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>protegemulher.pe.gov.br</a></p></div>"
+            },
+            {
+              "title": "Mapa de Contratos",
+              "content": "<div class='contratos-item'><a href='https://docs.google.com/spreadsheets/d/19a2rCtkSTcqng71wxZIkIRvwnKykc7h5/edit?usp=sharing&ouid=104282950636367291289&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Contratos – 2023</a><br/><a href='https://docs.google.com/spreadsheets/d/1DHrousvRB8rQh9rlTLTc0cndAhVQa6Ic/edit?usp=sharing&ouid=104282950636367291289&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Contratos – 2024</a><br/><a href='https://docs.google.com/spreadsheets/d/1cw167DgiWPMjziD-ZEh8Zow6WCrdbOqa/edit?usp=sharing&ouid=104282950636367291289&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Contratos – 2025</a></div>"
+            },
+            {
+              "title": "Mapa de Contratos de Terceirizados",
+              "content": "<div class='terceirizados-item'><a href='https://docs.google.com/spreadsheets/d/1wUzt2Zu6br5I9bwPqStMZgoj00-MNIVGY_b-TNbxR88/edit?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Contratos Terceirizados – 2025</a></div>"
+            },
+            {
+              "title": "Mapa de Diárias e Passagens",
+              "content": "<div class='diarias-item'><p>A Secretaria da Mulher do Estado de Pernambuco informa que, em estrita observância à Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), bem como aos princípios da dignidade da pessoa humana, da segurança da informação e da preservação da intimidade de mulheres em situação de vulnerabilidade, deixa de divulgar, em transparência ativa, os dados referentes a 15 (quinze) passagens aéreas e/ou deslocamentos realizados em benefício de mulheres acolhidas e seus filhos.</p><br/><a href='http://docs.google.com/spreadsheets/d/1_wGuV48t2NAr4CZuOjm8dT1DPjXoRm-V/edit?usp=sharing&ouid=115258159390451193272&rtpof=true&sd=true' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Diárias e Passagens</a></div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "secretaria-projetos-estrategicos",
+      "title": "Secretaria de Projetos Estratégicos de Pernambuco - SEPE",
+      "subtitle": "Governo de Pernambuco",
+      "sections": [
+        {
+          "id": "quem-somos",
+          "type": "hero",
+          "title": "Quem Somos",
+          "description": "A Secretaria de Projetos Estratégicos (SEPE) é um órgão integrante da Administração Direta do Poder Executivo Estadual. Foi criada por meio da Lei nº 18.139, de 18 de janeiro de 2023, e regulamentada por meio do Decreto nº 54.412, de 24 de janeiro de 2023.  A SEPE promove o desenvolvimento de ações e programas para implementação de projetos estratégicos para o Estado de Pernambuco, em articulação com a União, outros Estados e Municípios; bem como de projetos e empreendimentos estruturadores e fomentadores do desenvolvimento socioeconômico e eficiência da gestão pública.",
+          "image": "/images/sepe.png",
+          "content": ""
+        },
+        {
+          "id": "fale-conosco",
+          "type": "contact",
+          "title": "Fale conosco",
+          "description": "Entre em contato conosco para esclarecer dúvidas, compartilhar sugestões e obter informações sobre cooperação internacional, parcerias e iniciativas que promovem Pernambuco no cenário global.",
+          "content": "<ul><li><strong>E-mail:</strong> rodrigoqueiroz@sepe.pe.gov.br</li><li><strong>Telefone:</strong> +55 (81) 3182-7860</li><li><strong>Endereço:</strong> Av. Rio Branco, 104 CEP 50030-310 - Bairro do Recife, Recife/PE</li></ul>"
+        },
+        {
+          "id": "transparencia",
+          "type": "accordion_group",
+          "title": "Transparencia",
+          "description": "",
+          "accordions": [
+            {
+              "title": "Identidade Institucional",
+              "content": "<div class='identidade-item'><strong>Identidade Institucional</strong><br/><br/><p>Órgão do Poder Executivo do Governo do Estado de Pernambuco – Administração Direta, com o papel institucional de coordenar a pauta de audiências, despachos, viagens e eventos da Vice-Governadora; promover a integração do Gabinete da Vice-Governadora com as Secretarias de Estado e entidades da administração indireta; assessorar a Vice-Governadora em temas e assuntos relativos à Administração Pública; prestar apoio logístico e operacional a Vice-Governadora no exercício de suas funções especiais; assessorar a Vice-Governadora em assuntos técnicos e políticos relativos à gestão da Administração Pública; e emitir pareceres em documentos técnicos.</p><br/><strong>Missão Institucional</strong><br/><br/><p>Promover articulação política e administrativa, em conjunto com gabinete da Governadora e demais secretarias e órgãos da administração direta e indireta, com o intuito de otimizar os trabalhos desenvolvidos e oferecidos pelo Governo do Estado aos pernambucanos.</p><br/><strong>Visão de Futuro</strong><br/><br/><p>Ser referência na articulação político-administrativa com os órgãos e secretarias do estado para prover o melhor serviço à população.</p><br/><strong>Valores</strong><br/><ul><li>Trabalho em equipe</li><li>Produtividade</li><li>Proatividade</li><li>Ética</li></ul><br/><strong>Entidades Vinculadas</strong> – A SEPE não possui entidades vinculadas.<br/><strong>Fundos Vinculados</strong> – A SEPE não possui fundos vinculados.</div>"
+            },
+            {
+              "title": "Estrutura Organizacional",
+              "content": "<div class='estrutura-item'><a href='http://secretarias.pe.gov.br/wp-content/uploads/2025/09/orgonograma-scaled.png' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>Ver organograma</strong></a></div>"
+            },
+            {
+              "title": "Quem é quem?",
+              "content": "<div class='equipe-item'><strong>Rodrigo Ribeiro de Queiroz</strong><br/><strong>Secretário de Projetos Estratégicos</strong><br/><p>E-mail: rodrigoqueiroz@sepe.pe.gov.br</p><p>Telefone: 3182.7860</p><br/></div><div class='equipe-item'><strong>André Leite Wanderley</strong><br/><strong>Secretário Executivo de Monitoramento Estratégico</strong><br/><p>E-mail: andre.leite@sepe.pe.gov.br</p><p>Telefone: 3182-7850</p><br/></div><div class='equipe-item'><strong>Ana Paula Soares Cascão</strong><br/><strong>Assessora Especial</strong><br/><p>E-mail: ana.paulacascao@sepe.pe.gov.br</p><p>Telefone: 3182-7850</p><br/></div><div class='equipe-item'><strong>Manuella Pereira Dos Santos</strong><br/><strong>Secretária Executiva de Gestão Estratégica</strong><br/><p>E-mail: manuella.santos@sepe.pe.gov.br</p><p>Telefone: 3182-7850</p><br/></div><div class='equipe-item'><strong>Marcelo Bruto da Costa Correia</strong><br/><strong>Secretário Executivo de Parcerias e Projetos Estratégicos</strong><br/><p>E-mail: marcelo.bruto@sepe.pe.gov.br</p><p>Telefone: 3182-7850</p><br/></div><div class='equipe-item'><strong>Catarina Raquel de Lima Souza</strong><br/><strong>Assessora Especial</strong><br/><p>E-mail: catarina.delima@sepe.pe.gov.br</p><p>Telefone: 3182-7850</p><br/></div><div class='equipe-item'><strong>Irma Caetano de Holanda Lins</strong><br/><strong>Assessora Especial</strong><br/><p>E-mail: irma.lins@sepe.pe.gov.br</p><p>Telefone: (81) 3182 7860</p><br/></div><div class='link-item'><a href='https://secretarias.pe.gov.br/wp-content/uploads/2025/12/SEPE-ATUAL-ano.2025.xlsx' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso a planilha de Quem é Quem – SEPE</a></div>"
+            },
+            {
+              "title": "Competência e Legislação Aplicável",
+              "content": "<div class='competencia-item'><strong>Competências</strong><br/><br/><p>A Secretaria de Projetos Estratégicos, órgão da Administração Direta do Poder Executivo Estadual, tem por finalidade e competência desenvolver e gerir ações e programas para implementação de projetos estratégicos para o Estado, em articulação com a União, outros Estados e Municípios; supervisionar obras e empreendimentos; autorizar a elaboração de projetos básicos e executivos de engenharia de interesse estratégico, na forma disciplinada em ato da Governadora; participar de reuniões em órgãos conveniados; autorizar, homologar processos licitatórios de interesse estratégico, na forma disciplinada em ato da Governadora, ordenar despesas; assessorar à Governadora diretamente em sua área de atuação; planejar, fomentar e coordenar as Parcerias Público-Privadas, as concessões de serviços públicos, os programas de privatização e de desestatização, e as outras formas interação entre o Estado e a iniciativa privada, na forma disciplinada em Ato da Governadora do Estado, para viabilizar ações e programas de implantação de projetos e empreendimentos estruturadores e fomentadores do desenvolvimento socioeconômico do Estado e da eficiência da gestão pública; e executar e auxiliar na elaboração de projetos junto à União e a entidades financeiras nacionais e internacionais.</p><br/><strong>Legislação Aplicável</strong><br/><br/><p><strong>DECRETO Nº 54.412, DE 24 DE JANEIRO DE 2023 – Aloca e denomina na Secretaria de Projetos Estratégicos os cargos em comissão e funções gratificadas que indica.</strong></p><p><a href='https://www.lai.pe.gov.br/sepe/wp-content/uploads/sites/153/2025/04/DECRETO-No-54.412-DE-24-DE-JANEIRO-DE-2023..pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>DECRETO-No-54.412-DE-24-DE-JANEIRO-DE-2023.</strong></a></p><p><a href='https://www.lai.pe.gov.br/sepe/wp-content/uploads/sites/153/2023/03/LEI-No-18.139-DE-18-DE-JANEIRO-DE-2023-Reforma-Administrativa.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>LEI-No-18.139-DE-18-DE-JANEIRO-DE-2023-Reforma-Administrativa</strong></a></p><p><a href='https://www.lai.pe.gov.br/sepe/wp-content/uploads/sites/153/2023/03/DECRETO-No-54.412-DE-24-DE-JANEIRO-DE-2023-organograma-SEPE.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>DECRETO Nº 54.412, DE 24 DE JANEIRO DE 2023 – organograma SEPE</strong></a></p></div>"
+            },
+            {
+              "title": "Plano de Cargos e Carreira",
+              "content": "<div class='plano-item'><p>Não se aplica, tendo em vista o Órgão ser composto exclusivamente por cargos comissionados.</p></div>"
+            },
+            {
+              "title": "Ética e Integridade",
+              "content": "<div class='etica-item'><strong>CÓDIGO DE ÉTICA DA ADMINISTRAÇÃO PÚBLICA ESTADUAL</strong><br/><br/><p>Para conhecer o Código de Conduta da Alta Administração do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41240&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.854, de 07 de Dezembro de 2018.</a></p><p>Confira o Código de Ética dos Agentes Públicos da Administração Direta e Indireta do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41238&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.852, de 07 de Dezembro de 2018.</a></p></div>"
+            },
+            {
+              "title": "Horário de Funcionamento, Endereço, E-mail e Telefone",
+              "content": "<div class='horario-item'><strong>Vice-Governadoria do Estado de Pernambuco</strong><br/><br/><strong>Endereço</strong><br/><p>Avenida Rio Branco, 104, Bairro do Recife, Recife-PE, CEP: 50030-310</p><br/><strong>Horário de Atendimento</strong><br/><p>Dias da Semana: De Segunda-feira a Sexta-feira</p><p>Horários: 08:00 até 12:00 e 13:00 até 17:00</p><br/><strong>E-mail</strong><br/><p>rodrigoqueiroz@sepe.pe.gov.br</p><br/><strong>Telefone</strong><br/><p>+55 (81) 3182-7860</p></div>"
+            },
+            {
+              "title": "Carta de Serviço ao Usuário",
+              "content": "<div class='carta-item'><p>A SEPE não possui serviços para o público externo (Sociedade).</p></div>"
+            },
+            {
+              "title": "Visitação",
+              "content": "<div class='visitacao-item'><p>Não temos.</p></div>"
+            },
+            {
+              "title": "Conselho",
+              "content": "<div class='conselho-item'><p><strong>Observação:</strong> A SEPE não possui conselho ativo até o momento.</p></div>"
+            },
+            {
+              "title": "Lei Geral de Proteção de Dados - LGPD",
+              "content": "<div class='lgpd-item'><p><strong>Nome da pessoa encarregada:</strong> Larissa Pereira da Luz Falcão</p><p><strong>Telefone:</strong> (81) 3182 7865</p><p><strong>E-mail:</strong> larissalu@sepe.pe.gov.br</p><br/><a href='http://secretarias.pe.gov.br/wp-content/uploads/2025/09/SEI_73228463_GOVPE___Portaria_30_PPDPL-SEPE.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Politica De Proteção De Dados Pessoais Local – SEPE</a></div>"
+            },
+            {
+              "title": "Ouvidoria",
+              "content": "<div class='ouvidoria-item'><p><strong>Endereço:</strong> Rua Santo Elias, 535, Espinheiro</p><p><strong>Telefone:</strong> 162</p><p><strong>E-mail:</strong> ouvidoria@ouvidoria.pe.gov.br</p><p><strong>Site:</strong> <a href='https://www.ouvidoria.pe.gov.br/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>www.ouvidoria.pe.gov.br</a></p><p><strong>Horário de Atendimento:</strong> 08h às 12h e 14h às 18h</p></div>"
+            },
+            {
+              "title": "Redes sociais digitais",
+              "content": "<div class='redes-item'><p><strong>Instagram:</strong> <a href='https://www.instagram.com/sepe.oficial/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar página do Instagram</a></p></div>"
+            },
+            {
+              "title": "Perguntas frequentes",
+              "content": "<div class='faq-item'><p><strong>1) Qual a área de atuação da SEPE?</strong></p><p>A Secretaria de Projetos Estratégicos foi criada com o objetivo de buscar o desenvolvimento de ações e programas para implementação de projetos estratégicos para o Estado de Pernambuco, em articulação com a União, outros estados e municípios;</p><br/><p><strong>2) Qual a legislação pertinente à SEPE?</strong></p><p>A SEPE foi criada por meio da Lei nº 18.139, de 18 de janeiro de 2023, e regulamentada por meio do Decreto nº 54.412, de 24 de janeiro de 2023.</p><br/><p><strong>3) Qual o reflexo do trabalho da SEPE para o cidadão?</strong></p><p>A SEPE tem como missão tormar-se referência, diante da gestão pública brasileira, no desenvolvimento e na gestão de projetos estratégicos de governo, eficientes e eficazes, para o desenvolvimento econômico e social do Estado.</p><br/><p><strong>4) Qual o Perfil do Servidor da SEPE?</strong></p><p>O Servidor, para desempenhar suas atividades na SEPE, deve ser dinâmico, ter senso de responsabilidade, ético, pró-ativo e ter espírito para trabalhar em equipe. Ainda deve-se manter sempre atualizado para poder prestar um serviço de excelência para a população.</p><br/><p><strong>5) A SEPE possui quadro próprio de servidores?</strong></p><p>Atualmente, o quadro de colaboradores da SEPE é composto por servidores cedidos de outros órgãos e cargos comissionados, além de alguns serviços de mão de obra terceirizada.</p><br/><p><strong>6) De que maneira a SEPE pode contribuir para garantir eficiência à gestão pública?</strong></p><p>Desenvolvendo e gerindo ações e programas para implementação de projetos estratégicos para o Estado de Pernambuco; Planejando, fomentando e coordenando as parcerias público-privadas, as concessões de serviços públicos, os programas de privatização e de desestatização, e as outras formas de interação entre o Estado e a iniciativa privada; Viabilizando obras estruturadoras.</p><br/><p><strong>7) Há a função de controlador interno primário na SEPE?</strong></p><p>Sim. A SEPE conta, hoje, com um servidor designado para realizar as funções de Controle Interno Primário.</p><br/><p><strong>8) Onde fica a Sede da SEPE?</strong></p><p>A SEPE ocupa, hoje, um prédio localizado na avenida Rio Branco, no Recife Antigo, além de um prédio anexo no bairro de Santo Amaro, no Recife.</p><br/><p><strong>9) A SEPE possui veículos próprios</strong></p><p>Não. A SEPE conta com veículos locados que servem para atender as demandas externas, bem como para servir de meio de transporte para os seus servidores.</p><br/><p><strong>10) A SEPE deve prestar contas?</strong></p><p>Como a SEPE é um órgão da administração direta, deve realizar sua prestação de contas, de forma anual ao Tribunal de Contas do Estado de Pernambuco.</p></div>"
+            },
+            {
+              "title": "Responsabilidade fiscal",
+              "content": "<div><a href='https://transparencia.pe.gov.br/responsabilidade-fiscal/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Responsabilidade fiscal</strong></a></div>"
+            },
+            {
+              "title": "Fiscalização e Controle",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/fiscalizacao-e-controle/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Fiscalização e Controle</strong></a></div>"
+            },
+            {
+              "title": "Transferências estaduais e acordos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/transferencia/' target='_blank' style='text-decoration:underline;' rel='noopener noreferrer'><strong>Acessar link das Transferências Estaduais e Acordos</strong></a></div>"
+            },
+            {
+              "title": "Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita",
+              "content": "<div><a href='https://transparencia.pe.gov.br/receitas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita</strong></a></div>"
+            },
+            {
+              "title": "Despesas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/menu-despesas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Despesas</strong></a></div>"
+            },
+            {
+              "title": "Licitações, Contratos e Fornecedores",
+              "content": "<div class='licitacoes-item'><strong>Licitações</strong><br/><br/><a href='https://transparencia.pe.gov.br/licitacoes-e-contratos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'>Acessar link de Licitações, Contratos e Fornecedores</a></div>"
+            },
+            {
+              "title": "Obras Públicas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/obras/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Obras Públicas</strong></a></div>"
+            },
+            {
+              "title": "Patrimônio Público",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/patrimonio-publico/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do Patrimônio Público</strong></a></div>"
+            },
+            {
+              "title": "Recursos Humanos",
+              "content": "<div class='recursos-item'><a href='https://transparencia.pe.gov.br/recursos-humanos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'>Acessar link dos Recursos Humanos</a><br/><br/><p>Plano de Metas da Secretaria de Projetos Estratégicos para o Grupo Ocupacional Saúde Pública referente ao período avaliativo de outubro de 2024 a setembro de 2025.</p><br/><p style='text-decoration:underline;'>PORTARIA SEPE</p><br/><p>Plano de Metas da Secretaria de Projetos Estratégicos para o Grupo Ocupacional Gestão Autárquica ou Fundacional (GOAF) referente ao período avaliativo de janeiro a dezembro de 2025.</p><br/><p style='text-decoration:underline;'>PORTARIA – SEPE GOAF</p></div>"
+            },
+            {
+              "title": "Sistema de Informação ao Cidadão - SIC",
+              "content": "<div><a href='https://transparencia.pe.gov.br/participacao-cidada-pe/acesso-a-informacao/servico-de-informacoes-ao-cidadao-sic/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do SIC</strong></a></div>"
+            },
+            {
+              "title": "Programas",
+              "content": "<div class='programas-item'><p>A Lei Orçamentária Anual Estadual (LOA) estabelece os orçamentos do Estado que estimam as receitas e fixa as despesas do governo. Cabe a Assembleia Legislativa avaliar e ajustar a proposta do Poder Executivo assim como faz com a Lei de Diretrizes Orçamentárias (LDO) e Plano Plurianual (PPA). É o instrumento que o cidadão pode acompanhar a correta aplicação dos recursos públicos que visam promover a qualidade de vida dos cidadãos.</p><br/><strong>2025</strong><br/><br/><p>Detalhamento de despesa</p><a href='https://www.lai.pe.gov.br/sepe/wp-content/uploads/sites/153/2025/04/PREmitirRelatorioDetalhamentodaDespesaDDE.pdf' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesso ao Relatório de Detalhamento de Despesas – DDE</a></div>"
+            },
+            {
+              "title": "Mapa de Contratos",
+              "content": "<div class='contratos-item'><a href='https://drive.google.com/drive/folders/1RdRCXPD1jei02JuAeHKviE0X_IEQGJTp?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Contratos</a></div>"
+            },
+            {
+              "title": "Mapa de Contratos de Terceirizados",
+              "content": "<div class='terceirizados-item'><a href='https://drive.google.com/drive/folders/1rSNCMk--283p9DqK1YAHCo6XJIY6vWKJ?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Contratos de Terceirizados</a></div>"
+            },
+            {
+              "title": "Mapa de Diárias e Passagens",
+              "content": "<div class='diarias-item'><a href='https://drive.google.com/drive/folders/1CayksbLCMaeZC1aqOrbraTsjDgOKFEne?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Mapa de Diárias e Passagens</a></div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "assessoria-especial-governadora-relacoes-internacionais",
+      "title": "Secretaria da Assessoria Especial à Governadora e Relações Internacionais - SAESPRI",
+      "subtitle": "Governo de Pernambuco",
+      "sections": [
+        {
+          "id": "quem-somos",
+          "type": "hero",
+          "title": "Quem Somos",
+          "description": "Aqui está um resumo ainda mais direto, preservando os pilares da estrutura original: A SAESPRI assessora a Governadora de Pernambuco por meio das Secretarias Executivas de Informações Estratégicas e de Relações Internacionais. Suas funções dividem-se em:</p><ul><li>Assessoria Estratégica: Suporte técnico-político à Governadora e articulação direta com o Governo Federal.</li><li>Diplomacia: Gestão do relacionamento com consulados, embaixadas e governos estrangeiros.&nbsp;</li><li>Economia Global: Atração de investimentos e promoção da internacionalização da economia estadual.</li><li>Coordenação Institucional: Gestão de acordos internacionais e alinhamento de projetos com órgãos externos.&nbsp;</li><li>Cooperação Técnica: Captação de parcerias e expertise internacional para fortalecer as políticas públicas locais.</li></ul>",
+          "image": "/images/saespri.png",
+          "content": ""
+        },
+        {
+          "id": "fale-conosco",
+          "type": "contact",
+          "title": "Fale conosco",
+          "description": "Entre em contato conosco para esclarecer dúvidas, compartilhar sugestões e obter informações sobre cooperação internacional, parcerias e iniciativas que promovem Pernambuco no cenário global.",
+          "content": "<ul><li><strong>E-mail:</strong> relacoes.internacionais@assessoriaespecial.pe.gov.br</li><li><strong>Telefone:</strong> +55 (81) 3181-2169</li><li><strong>Endereço:</strong> Palácio do Campo das Princesas, Praça da República, S/N, Santo Antônio, Recife - PE, CEP: 50010-928</li></ul>"
+        },
+        {
+          "id": "transparencia",
+          "type": "accordion_group",
+          "title": "Transparencia",
+          "description": "",
+          "accordions": [
+            {
+              "title": "Identidade Institucional",
+              "content": "<div class='identidade-item'><strong>Identidade Institucional</strong><br/><br/><p>A Secretaria da Assessoria Especial à Governadora e Relações Internacionais – SAESPRI – existe com as finalidades de: assessorar à Governadora em assuntos técnicos e políticos relativos à gestão da Administração Pública e no relacionamento com os corpos diplomáticos, consulares e governos estrangeiros; emitir pareceres em documentos técnicos; sugerir medidas e procedimentos no encaminhamento de processos, pleitos e requisições dirigidas à Governadora; elaborar estudos, relatórios e documentos de interesse da Governadora, representando-o nas suas relações com os demais Poderes do Estado; assessorar o Gabinete da Governadora na coordenação das ações internacionais do Estado, em articulação permanente com outros órgãos e entidades estaduais; acompanhar projetos, convênios, contratos e outros assuntos de interesse do Governo junto à União, entidades, organizações, embaixadas estrangeiras e organismos internacionais; apoiar a internacionalização da estrutura produtiva do Estado; e identificar oportunidades, prospectar, articular, coordenar, fomentar e acompanhar a execução de programas e projetos de cooperação internacional junto a governos estrangeiros, organismos multilaterais e internacionais, organizações não governamentais e congêneres, concernentes aos aspectos administrativos, políticos e de representação voltados para a ampliação e o fortalecimento do desenvolvimento social e econômico de Pernambuco.</p><br/><strong>Missão Institucional</strong><br/><br/><p>Assessorar a Governadora a tomar e executar as melhores decisões de políticas públicas, contribuindo para a mudança na gestão pública desejada pela população pernambucana.</p><br/><strong>Visão de Futuro</strong><br/><br/><p>Encerrar o período de governo sendo referência entre as estruturas do poder público estadual em qualidade de entregas, facilitadora do trabalho da gestão e deixar legado para gestões futuras.</p><br/><strong>Valores</strong><br/><ul><li>Responsividade</li><li>Responsabilidade e compliance</li><li>Qualidade e esmero</li><li>Diversidade</li><li>Colaboração</li><li>Austeridade</li><li>Respeito</li></ul></div>"
+            },
+            {
+              "title": "Estrutura Organizacional",
+              "content": "<div class='estrutura-item'><a href='https://secretarias.pe.gov.br/wp-content/uploads/2025/01/Organograma-SAESPRI.jpg' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'><strong>Ver organograma</strong></a></div>"
+            },
+            {
+              "title": "Quem é quem?",
+              "content": "<div class='equipe-item'><strong>João Salles</strong><br/><strong>Secretário da Assessoria Especial à Governadora e Relações Internacionais</strong><br/><p>Email: gabinete@assessoriaespecial.pe.gov.br</p><p>Telefone: 3181-2169</p><br/></div><div class='equipe-item'><strong>Rayane Aguiar</strong><br/><strong>Secretária Executiva de Relações Internacionais</strong><br/><p>Email: relacoes.internacionais@assessoriaespecial.pe.gov.br</p><p>Telefone: 3181-2169</p><br/></div><div class='equipe-item'><strong>Rafael Gomes Amorim</strong><br/><strong>Secretário Executivo de Informações Estratégicas</strong><br/><p>Email: informacoes.estrategicas@assessoriaespecial.pe.gov.br</p><p>Telefone: 3181-2169</p><br/></div><div class='equipe-item'><strong>Daniela Morais Pereira da Costa</strong><br/><strong>Chefe de Gabinete</strong><br/><p>Email: gabinete@assessoriaespecial.pe.gov.br</p><p>Telefone: 3181-2169</p></div>"
+            },
+            {
+              "title": "Competência e Legislação Aplicável",
+              "content": "<div class='competencia-item'><p>Conforme a LEI Nº 18.487, DE 9 DE JANEIRO DE 2024, que dispõe sobre a estrutura e o funcionamento do Poder Executivo do Estado de Pernambuco:</p><p>(…)</p><p>XXVI – Secretaria da Assessoria Especial à Governadora e Relações Internacionais: assessorar à Governadora em assuntos técnicos e políticos relativos à gestão da Administração Pública e no relacionamento com os corpos diplomáticos, consulares e governos estrangeiros; emitir pareceres em documentos técnicos; sugerir medidas e procedimentos no encaminhamento de processos, pleitos e requisições dirigidas à Governadora; elaborar estudos, relatórios e documentos de interesse da Governadora, representando-o nas suas relações com os demais Poderes do Estado; assessorar o Gabinete da Governadora na coordenação das ações internacionais do Estado, em articulação permanente com outros órgãos e entidades estaduais; acompanhar projetos, convênios, contratos e outros assuntos de interesse do Governo junto à União, entidades, organizações, embaixadas estrangeiras e organismos internacionais; apoiar a internacionalização da estrutura produtiva do Estado; e identificar oportunidades, prospectar, articular, coordenar, fomentar e acompanhar a execução de programas e projetos de cooperação internacional junto a governos estrangeiros, organismos multilaterais e internacionais, organizações não governamentais e congêneres, concernentes aos aspectos administrativos, políticos e de representação voltados para a ampliação e o fortalecimento do desenvolvimento social e econômico de Pernambuco.</p><br/><p>*Lei nº 18.487, de 9 de janeiro de 2024 <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=75486&tipo=' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>(clique para acessar o link do normativo)</a></p></div>"
+            },
+            {
+              "title": "Plano de Cargos e Carreira",
+              "content": "<div class='plano-item'><p>Não se aplica, tendo em vista o Órgão ser composto exclusivamente por cargos comissionados.</p></div>"
+            },
+            {
+              "title": "Ética e Integridade",
+              "content": "<div class='etica-item'><strong>CÓDIGO DE ÉTICA DA ADMINISTRAÇÃO PÚBLICA ESTADUAL</strong><br/><br/><p>Para conhecer o Código de Conduta da Alta Administração do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41240&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.854, de 07 de Dezembro de 2018.</a></p><p>Confira o Código de Ética dos Agentes Públicos da Administração Direta e Indireta do Poder Executivo Estadual, <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41238&tipo=TEXTOORIGINAL' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>acesse o Decreto nº 46.852, de 07 de Dezembro de 2018.</a></p></div>"
+            },
+            {
+              "title": "Horário de Funcionamento, Endereço, E-mail e Telefone",
+              "content": "<div class='horario-item'><strong>Secretaria da Assessoria Especial à Governadora e Relações Internacionais</strong><br/><br/><strong>Endereço</strong><br/><p>Palácio do Campo das Princesas, Praça da República, s/nº – Santo Antônio, Recife/PE</p><br/><strong>Horário de Atendimento</strong><br/><p>Dias da semana: De segunda-feira a sexta-feira</p><p>Horários: 09:00 até 13:00 e 14:00 até 18:00</p><br/><strong>E-mail</strong><br/><p>gabinete@assessoriaespecial.pe.gov.br</p><br/><strong>Telefone</strong><br/><p>+55 (81) 3181-2169</p></div>"
+            },
+            {
+              "title": "Carta de Serviço ao Usuário",
+              "content": "<div class='carta-item'><a href='https://www.pe.gov.br/app/catalog/carta-de-servicos' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar serviços</a></div>"
+            },
+            {
+              "title": "Visitação",
+              "content": "<div class='visitacao-item'><p>Não temos.</p></div>"
+            },
+            {
+              "title": "Conselho",
+              "content": "<div class='conselho-item'><p><strong>Observação:</strong> A SAESPRI não possui conselho ativo até o momento.</p></div>"
+            },
+            {
+              "title": "Lei Geral de Proteção de Dados - LGPD",
+              "content": "<div class='lgpd-item'><p><strong>Nome da pessoa encarregada:</strong> Daniela Morais Pereira Da Costa</p><p><strong>Telefone:</strong> (81) 3181-2169</p><p><strong>E-mail:</strong> gabinete@assessoriaespecial.pe.gov.br</p></div>"
+            },
+            {
+              "title": "Ouvidoria",
+              "content": "<div class='ouvidoria-item'><p>A SAESPRI não possui Ouvidoria própria. Sendo assim, as manifestações, as denúncias, os pedidos de acesso à informação e os pedidos referentes a dados pessoais relacionados à SAESPRI, devem ser efetuados via Ouvidoria-Geral do Estado de Pernambuco.</p><br/><a href='https://transparencia.pe.gov.br/participacao-cidada-pe/ouvidoria/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acesse a seção \"Ouvidoria\" do Portal da Transparência de Pernambuco e obtenha mais informações.</a></div>"
+            },
+            {
+              "title": "Redes sociais digitais",
+              "content": "<div class='redes-item'><p><strong>Instagram:</strong> <a href='https://www.instagram.com/pe.internacional/' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar página do Instagram</a></p></div>"
+            },
+            {
+              "title": "Perguntas frequentes",
+              "content": "<div class='faq-item'><p><strong>1) Onde fica a Secretaria da Assessoria Especial à Governadora e Relações Internacionais?</strong></p><p>A Secretaria da Assessoria Especial à Governadora e Relações Internacionais – SAESPRI- fica no Palácio do Campo das Princesas, s/n – Santo Antônio, Recife.</p><br/><p><strong>2) Onde fica o Gabinete do Secretário da SAESPRI?</strong></p><p>O gabinete do Secretário da SAESPRI fica no Palácio do Campo das Princesas, s/n – Santo Antônio, Recife.</p><br/><p><strong>3) Quem é o Secretário da Assessoria Especial à Governadora e Relações Internacionais?</strong></p><p>Está respondendo pela Secretaria o Secretário Executivo João Salles.</p><br/><p><strong>4) Quem são os Secretários Executivos da SAESPRI?</strong></p><p>Secretária Executiva de Relações Internacionais – Rayane Aguiar<br/>Secretário Executivo de Informações Estratégicas – Rafael Amorim</p><br/><p><strong>5) Quais as atribuições da Secretaria da Assessoria Especial à Governadora e Relações Internacionais?</strong></p><p>Conforme a Lei Nº 18.487, de 9 de janeiro de 2024, a Secretaria da Assessoria Especial à Governadora e Relações Internacionais tem por competências: assessorar à Governadora em assuntos técnicos e políticos relativos à gestão da Administração Pública e no relacionamento com os corpos diplomáticos, consulares e governos estrangeiros; emitir pareceres em documentos técnicos; sugerir medidas e procedimentos no encaminhamento de processos, pleitos e requisições dirigidas à Governadora; elaborar estudos, relatórios e documentos de interesse da Governadora, representando-o nas suas relações com os demais Poderes do Estado; assessorar o Gabinete da Governadora na coordenação das ações internacionais do Estado, em articulação permanente com outros órgãos e entidades estaduais; acompanhar projetos, convênios, contratos e outros assuntos de interesse do Governo junto à União, entidades, organizações, embaixadas estrangeiras e organismos internacionais; apoiar a internacionalização da estrutura produtiva do Estado; e identificar oportunidades, prospectar, articular, coordenar, fomentar e acompanhar a execução de programas e projetos de cooperação internacional junto a governos estrangeiros, organismos multilaterais e internacionais, organizações não governamentais e congêneres, concernentes aos aspectos administrativos, políticos e de representação voltados para a ampliação e o fortalecimento do desenvolvimento social e econômico de Pernambuco;</p><br/><p><strong>6) Quais os contatos e onde fica a Secretaria Executiva de Relações Internacionais?</strong></p><p>A Secretaria Executiva de Relações Internacionais fica no Palácio do Campo das Princesas, s/n – Santo Antônio, Recife. Os contatos podem ser feitos pelo email relacoesinternacionais@assessoriaespecial.pe.gov.br ou pelo telefone 3181-2169.</p><br/><p><strong>7) Onde posso encontrar os nomes das Secretarias, dos respectivos secretários de Estado e endereços?</strong></p><p>No endereço www.pe.gov.br, portal do Governo de Pernambuco, é possível encontrar na aba \"Secretarias\" todas as informações sobre as referidas pastas, inclusive os sítios específicos de cada secretaria.</p><br/><p><strong>8) Quando foi criada a Secretaria da Assessoria Especial à Governadora e Relações Internacionais?</strong></p><p>A Secretaria da Assessoria Especial à Governadora e Relações Internacionais teve nomenclatura e atribuições redefinidas a partir do inciso XXVI do artigo 1º da Lei Nº 18.139, de 18 de janeiro de 2023, alterada pela Lei Nº 18.487, de 9 de janeiro de 2024.</p><br/><p><strong>9) Qual o horário de funcionamento da SAESPRI no Palácio do Campos das Princesas?</strong></p><p>A Secretaria da Assessoria Especial à Governadora e Relações Internacionais tem horário padrão de segunda a sexta, das 09:00 às 13:00 e das 14:00 às 18:00.</p></div>"
+            },
+            {
+              "title": "Responsabilidade fiscal",
+              "content": "<div><a href='https://transparencia.pe.gov.br/responsabilidade-fiscal/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Responsabilidade fiscal</strong></a></div>"
+            },
+            {
+              "title": "Fiscalização e Controle",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/fiscalizacao-e-controle/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link de Fiscalização e Controle</strong></a></div>"
+            },
+            {
+              "title": "Transferências estaduais e acordos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/transferencia/' target='_blank' style='text-decoration:underline;' rel='noopener noreferrer'><strong>Acessar link das Transferências Estaduais e Acordos</strong></a></div>"
+            },
+            {
+              "title": "Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita",
+              "content": "<div><a href='https://transparencia.pe.gov.br/receitas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Receitas, Transferências da União, Dívida Ativa e Renúncia de Receita</strong></a></div>"
+            },
+            {
+              "title": "Despesas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/menu-despesas/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Despesas</strong></a></div>"
+            },
+            {
+              "title": "Licitações, Contratos e Fornecedores",
+              "content": "<div class='licitacoes-item'><strong>Licitações</strong><br/><br/><a href='https://transparencia.pe.gov.br/licitacoes-e-contratos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'>Acessar link de Licitações, Contratos e Fornecedores</a></div>"
+            },
+            {
+              "title": "Obras Públicas",
+              "content": "<div><a href='https://transparencia.pe.gov.br/despesas/obras/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link das Obras Públicas</strong></a></div>"
+            },
+            {
+              "title": "Patrimônio Público",
+              "content": "<div><a href='https://transparencia.pe.gov.br/gestao-estadual/patrimonio-publico/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do Patrimônio Público</strong></a></div>"
+            },
+            {
+              "title": "Recursos Humanos",
+              "content": "<div><a href='https://transparencia.pe.gov.br/recursos-humanos/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link dos Recursos Humanos</strong></a></div>"
+            },
+            {
+              "title": "Sistema de Informação ao Cidadão - SIC",
+              "content": "<div><a href='https://transparencia.pe.gov.br/participacao-cidada-pe/acesso-a-informacao/servico-de-informacoes-ao-cidadao-sic/' style='text-decoration:underline;' target='_blank' rel='noopener noreferrer'><strong>Acessar link do SIC</strong></a></div>"
+            },
+            {
+              "title": "Programas",
+              "content": "<div class='programas-item'><p>Não se aplica</p></div>"
+            },
+            {
+              "title": "Mapa de Contratos",
+              "content": "<div class='contratos-item'><a href='https://drive.google.com/drive/folders/1ofXvkqt3S68vvacERkkbU1btUGxuBuiH?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar Mapa de Contratos</a></div>"
+            },
+            {
+              "title": "Mapa de Contratos de Terceirizados",
+              "content": "<div class='terceirizados-item'><a href='https://drive.google.com/drive/folders/1hwIx-arsRkN9nbkJ7LG98lpMutrNDWe3?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar Mapa de Contratos de Terceirizados</a></div>"
+            },
+            {
+              "title": "Mapa de Diárias e Passagens",
+              "content": "<div class='diarias-item'><a href='https://drive.google.com/drive/folders/1xkzJjSvOLkafdteTW7pbhkcq8pVa2tBj?usp=sharing' target='_blank' rel='noopener noreferrer' style='text-decoration:underline;'>Acessar Mapa de Diárias e Passagens</a></div>"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
