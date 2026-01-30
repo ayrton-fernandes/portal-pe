@@ -172,13 +172,41 @@
               "title": "Quem é quem?",
               "content": "<div class='equipe-item'> <strong>Rodolfo Costa Pinto</strong> <strong> <p>Secretário de Comunicação</p> </strong> <br/> <p>Telefone: (81) 3181-2352</p><p>E-mail: rodolfo.pinto@secom.pe.gov.br</p> <br/> </div> <div class='equipe-item'> <strong>Fúlvio Wagner Lopes Gomes</strong> <strong><p>Secretário Executivo de Comunicação Institucional</p></strong> <br/> <p>Telefone:(81) 3181-2352</p>  <p>E-mail: fulvio.gomes@secom.pe.gov.br</p> <br/> </div> <div class='equipe-item'> <strong>Daniella Brito</strong> <p><strong>Secretária Executiva de Relacionamento com a Imprensa</strong></p> <br/> <p>Telefone: (81) 3181-2227/2178</p> <p>E-mail: daniella.brito@secom.pe.gov.br</p> </div> <br/> <div class='equipe-item'> <strong>Meiryelen Gomes da Costa</strong> <p><strong>Secretária Executiva de Planejamento e Gestão</strong></p> <br/> <p>Telefone: Telefone: (81) 3181-2352</p> <p>E-mail: meiryelen.gomes@secom.pe.gov.br</p> <br/> </div> <div class='equipe-item'> <strong>Rodrigo França</strong> <p><strong>Chefe de Gabinete</strong></p> <br/> <p>Telefone: Telefone: (81) 3181-2169</p> <p>E-mail: rodrigo.mfranca@secom.pe.gov.br</p>   </div> "
             },
-             {
+            {
               "title": "Competência e Legislação Aplicável",
               "content": "<div class='cotacao-item'><strong>Competências</strong> <br/><br/> <p>Secretaria de Comunicação: promover a divulgação de atos e de documentação para órgãos públicos; prestar apoio aos órgãos integrantes da Governadoria no relacionamento com a imprensa; assistir à Governadora nas coberturas jornalísticas e no seu relacionamento com a imprensa, na coordenação do credenciamento de profissionais de imprensa, acesso e fluxo a locais onde ocorram atividades de que participe, na articulação operacional da imprensa e dos órgãos governamentais de comunicação social em atos, eventos, solenidades e viagens de que participe à Governadora; orientar os órgãos e entidades do Poder Executivo no seu relacionamento com a imprensa; planejar, coordenar e executar a política de comunicação do Governo; planejar e coordenar a publicidade governamental; em conjunto com os demais órgãos do Poder Executivo, executar a publicidade governamental e as campanhas educativas e de interesse público da Administração Direta do Governo, e gerir os contratos administrativos pertinentes à publicidade governamental; gerir as redes e mídias sociais oficiais do Governo, em conjunto com os demais órgãos do Poder Executivo; e definir diretrizes, estabelecer normas, coordenar e avaliar a execução de planos e projetos relativos à transformação digital de serviços públicos.</p> <br/><br/> <strong>Legislação Aplicável</strong> <br/><br/> <a href='https://www.lai.pe.gov.br/seco/wp-content/uploads/sites/152/2023/08/LO181392023-3.pdf' style='text-decoration:underline;'>LEI ORDINÁRIA Nº 18.139/2023</a> <br/><a href='' style='text-decoration:underline;'>Manual de Procedimentos das Ações de Publicidade</a>  </div>"
             },
             {
               "title": "Plano de Cargos e Carreira",
               "content": "<div class='cotacao-item'> <p> Não se aplica, tendo em vista o Órgão ser composto exclusivamente por cargos comissionados.</p></div>"
+            },
+            {
+              "title": "Ética e Integridade",
+              "content": "<div class='cotacao-item'><strong>CÓDIGO DE ÉTICA DA ADMINISTRAÇÃO PÚBLICA ESTADUAL</strong> <br/><br/> <p>Para conhecer o Código de Conduta da Alta Administração do Poder Executivo Estadual <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41240&tipo=TEXTOORIGINAL' style='text-decoration:underline; target='_blank' rel='noopener noreferrer'>clique aqui</a>.</p> <p>Para conhecer o Código de Conduta da Alta Administração do Poder Executivo Estadual <a href='https://legis.alepe.pe.gov.br/texto.aspx?id=41238&tipo=TEXTOORIGINAL' style='text-decoration:underline; target='_blank' rel='noopener noreferrer'>clique aqui</a>.</p> </div>"
+            },
+            {
+              "title": "Horário de Funcionamento, Endereço, E-mail e Telefone",
+              "content": "<div> <p> <strong>Dias da Semana:</strong> De Segunda-feira a Sexta-feira</p> <p> <strong>Horários:</strong> 8h às 17h</p> <p> <strong>Endereço:</strong>  Praça da República, Bairro de Santo Antônio, Recife/PE, CEP 50010-928</p> <p> <strong>E-mail:</strong> gabinete@secom.pe.gov.br</p>  <p> <strong>Telefone:</strong> +55 (81) 3181-2352</p></div>"
+            },
+            {
+              "title": "Programas",
+              "content": "<div> <p> Não se aplica</p></div>"
+            },
+            {
+              "title": "Carta de Serviço ao Usuário",
+              "content": "<div> <p> A SECOM não possui serviços para o público externo (Sociedade).</p></div>"
+            },
+            {
+              "title": "Conselhos",
+              "content": "<div> <p> <strong>Observação:</strong> A SECOM não possui conselho ativo até o momento.</p></div>"
+            },
+            {
+              "title": "Ouvidoria",
+              "content": "<div> <p>A SECOM não possui Ouvidoria própria. Sendo assim, as manifestações, as denúncias, os pedidos de acesso à informação e os pedidos referentes a dados pessoais relacionados à SECOM, devem ser efetuados via Ouvidoria-Geral do Estado de Pernambuco.</p> <br/>  <a href='https://transparencia.pe.gov.br/participacao-cidada-pe/ouvidoria/' style='text-decoration:underline; target='_blank' rel='noopener noreferrer'>Acesse a seção “Ouvidoria” do Portal da Transparência de Pernambuco e obtenha mais informações.</a></div>"
+            },
+            {
+              "title": "Perguntas Frequentes",
+              "content": "<div>  <div class='comunicacao-item'> <strong>1) Onde fica a Secretaria de Comunicação?</strong> <br/> <br/>  <p>A Secretaria de Comunicação – SECOM- fica no Palácio do Campo das Princesas, s/n – Santo Antônio, Recife.</p> <br/><br/> </div> <div class='comunicacao-item'>  <strong>2) Onde fica o Gabinete do Secretário da SECOM?</strong> <br/> <br/><p> O gabinete do Secretário da SECOM fica no Palácio do Campo das Princesas, s/n – Santo Antônio, Recife.</p> <br/><br/> </div> <div class='comunicacao-item'> <strong>3) Quem é o Secretário de Comunicação?</strong> <br/> <br/> <p> O Secretário da SECOM é Rodolfo Costa Pinto. </p>  <br/><br/> </div> <div class='comunicacao-item'> <strong>4) Quem são os Secretários Executivos da SECOM?</strong> <br/> <br/> <p>Secretária Executiva de Relacionamento com a Imprensa – Daniella Brito</p> <p>Secretário Executivo De Comunicação Institucional – Fúlvio Gomes</p> <p>Secretária Executiva de Planejamento e Gestão – Meiryelen Gomes</p></div></div>"
             }
           ]
         }
