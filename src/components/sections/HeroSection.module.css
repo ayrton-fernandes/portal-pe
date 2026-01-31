@@ -1,13 +1,18 @@
 .heroSection {
-  padding: 3rem 1.5rem;
-  background-color: var(--color-background-primary, #ffffff);
+  padding: 3rem 4.5rem;
+  background-color: var(--color-background-default);
+}
+@media (max-width: 1024px) {
+  .heroSection {
+    padding: 0 1.5rem 3rem 1.5rem;
+  }
 }
 
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
-  align-items: center;
+  align-items: flex-start;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -24,14 +29,14 @@
 }
 
 .description {
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
   line-height: 1.6;
   margin: 0;
 }
 
 .imageContainer {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
 }
 
@@ -41,6 +46,11 @@
   width: 100%;
   height: auto;
   max-width: 500px;
+}
+@media (max-width: 768px) {
+  .image{
+    max-width: 100%;
+  }
 }
 
 /* Responsividade */

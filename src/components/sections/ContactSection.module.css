@@ -1,6 +1,11 @@
 .contactSection {
-  padding: 3rem 1.5rem;
-  background-color: var(--color-background-secondary, #F8F9FA);
+  padding: 3rem 4.5rem;
+  background: var(--color-surface-primary-softest);
+}
+@media (max-width: 1024px) {
+  .contactSection {
+    padding: 3rem 1.5rem;
+  }
 }
 
 .container {
@@ -9,7 +14,7 @@
 }
 
 .card {
-  padding: 2rem;
+  padding: 2rem 0;
   background-color: transparent;
   border: none;
   box-shadow: none;
@@ -21,13 +26,13 @@
 }
 
 .description {
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
   line-height: 1.6;
   margin: 0 0 1.5rem 0;
 }
 
 .content {
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
 }
 
 .content ul {

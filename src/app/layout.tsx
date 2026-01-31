@@ -4,6 +4,8 @@ import { Providers } from '@/components/Providers';
 import '@uigovpe/styles';
 import 'material-symbols';
 import './globals.css';
+import { ThemeProvider } from "next-themes";
+import { HeaderSection } from '@/components/sections/HeaderSection';
 
 const inter = Inter({ 
   subsets: ['latin'],
@@ -23,9 +25,17 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body className={inter.className}>
-        <Providers>
-          {children}
-        </Providers>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="light"
+          enableSystem={false}
+          disableTransitionOnChange
+        >
+          <HeaderSection />
+          <Providers>
+            {children}
+          </Providers>
+        </ThemeProvider>
       </body>
     </html>
   );

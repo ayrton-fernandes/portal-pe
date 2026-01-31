@@ -1,11 +1,16 @@
 .main {
   min-height: 100vh;
-  background-color: var(--color-background-primary, #ffffff);
+  background-color: var(--color-background-default);
 }
 
 .header {
-  padding: 2rem 1.5rem 1rem;
-  background-color: var(--color-background-primary, #ffffff);
+  padding: 2rem 4.5rem 2rem;
+  background-color: var(--color-background-default);
+}
+@media (max-width: 1024px) {
+  .header {
+    padding: 2rem 1.5rem 2rem;
+  }
 }
 
 .headerContainer {
@@ -17,13 +22,12 @@
 }
 
 .pageTitle {
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
   margin: 0;
   font-size: 1.75rem;
 }
 
 .pageSubtitle {
-  color: var(--color-text-primary, #666666);
   margin: 0;
   font-size: 0.875rem;
 }

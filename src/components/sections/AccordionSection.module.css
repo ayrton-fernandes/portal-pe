@@ -1,6 +1,11 @@
 .accordionSection {
-  padding: 3rem 1.5rem;
-  background-color: var(--color-background-primary, #ffffff);
+  padding: 3rem 4.5rem;
+  background-color: var(--color-background-default);
+}
+@media (max-width: 1024px) {
+  .accordionSection {
+    padding: 3rem 1.5rem;
+  }
 }
 
 .container {
@@ -14,7 +19,7 @@
 }
 
 .description {
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
   line-height: 1.6;
   margin: 0 0 1.5rem 0;
 }
@@ -25,7 +30,7 @@
 
 .accordionContent {
   padding: 1rem;
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
 }
 
 .accordionContent p {
@@ -35,7 +40,7 @@
 
 .accordionContent strong {
   font-weight: 700;
-  color: var(--color-text-primary, #333333);
+  color: var(--color-text-default);
 }
 
 .accordionContent .cotacao-item {
